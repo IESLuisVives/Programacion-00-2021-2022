@@ -1,12 +1,12 @@
 # Programación - Presentación
 
-Tema de Presentación de Programación. Curso 2021/2022.
+Tema de Presentación de Programación. 1DAM. Curso 2021/2022.
 
 ![imagen](https://thesoftclix.com/wp-content/uploads/2019/09/unnamed-1.png)
 
 ## Contenidos
-1. Introducción a la programación de software
-2. Programación estructurada y modular
+1. [Introducción a la programación de software](https://github.com/joseluisgs/Programacion-01-2021-2022)
+2. [Programación estructurada y modular](https://github.com/joseluisgs/Programacion-02-2021-2022)
 3. Aplicación de las estructuras de almacenamiento
 4. Programación Orientada a Objetos
 5. Programación Avanzada Orientada a Objetos
